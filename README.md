@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avril Leong
 
-**🎓 Final Year FinTech Student | 📊 Data Enthusiast | 🌍 Making a Positive Impact**
+🎓 Final Year FinTech Student | 📊 Data Enthusiast | 🌍 Making a Positive Impact
 
 I'm a final-year Financial Technology student at Republic Polytechnic in Singapore, with a strong interest in **Data Analytics** and a passion for uncovering insights to solve real-world problems. My journey in data analytics and technology is driven by a desire to make a positive difference, and I aspire to one day become a **teacher** to help others learn and succeed.
 
