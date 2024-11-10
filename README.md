@@ -44,10 +44,19 @@ I'm a final-year Financial Technology student at Republic Polytechnic in Singapo
 - **Data Analytics**
 - **Tableau**
 - **PowerBI**
-- **Financial Technology**
-
+  
 ---
 
+### 🎯 Projects
+- **ConsoleRescue**
+  [Project Repository](https://github.com/22017107-AvrilLeong/C372_ConsoleRescue)
+  *C372 Payment Technologies*  
+  - E-commerce website offering repair parts for retro gaming devices
+  - Skills Used: Java Spring, markup languages, JavaScript, SQL
+  - Fully functional website with interactive & reponsive design, as well as proper security restriction
+  - Client Side: Sign up for account, Add to Cart, Purchase (Sandbox Paypal API), View account info & order detail, Email Notification
+  - Admin Side: CRUD (Create, Read, Update, Delete) for each item, View all customer information and orders
+  
 ### 🌱 Personal Philosophy
 I'm a big believer in continuous growth:  
 > "The definition of insanity is doing the same thing over and over again and expecting different results."  
@@ -58,3 +67,4 @@ I'm a big believer in continuous growth:
 ### 📫 Let's Connect
 - **Email**: [leongavril@gmail.com](mailto:leongavril@gmail.com)
 - **LinkedIn**: [Avril Leong](https://www.linkedin.com/in/avril-leong)
+- **Student Github**: [22017107_AvrilLeong github](https://22017107-avrilleong.github.io/)
